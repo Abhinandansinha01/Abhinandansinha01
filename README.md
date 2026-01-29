@@ -52,7 +52,7 @@ I'm a **Cloud Engineer** passionate about designing efficient, scalable, and aut
 
 * 🥇 **Hackathon Winner**: 1st Place for AI-based Disaster Recovery system on AWS.
 * ⚡ **Performance**: Optimized Node.js API response time by **35%**.
-* 🌐 **Open Source**: Contributed to **Terraform AWS Provider** docs (500+ users impacted).
+* 🌐 **Open Source**: Contributed core logic fixes to **AWS CDK** (Fixing Lambda layer hashing [#36818](https://github.com/aws/aws-cdk/pull/36818)) and **Terraform AWS Provider** docs.
 * 🧠 **Problem Solving**: **300+** LeetCode/GeeksForGeeks problems solved (Top 15%).
 
 ---
