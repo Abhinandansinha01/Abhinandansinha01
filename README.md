@@ -6,7 +6,7 @@ I'm a passionate engineer focused on cloud architecture, automation, and buildin
 
 ---
 
-### 🚀 Featured Project: [2026 Engineering Portfolio](https://abhinandansinha01.github.io/portfolio-2026/portfolio/index.html)
+### 🚀 Featured Project: https://abhinandansinha01.github.io/portfolio/
 *A high-performance, interactive dashboard featuring a "Digital Fire" theme, 3D micro-interactions, and a theme-synced digital resume.*
 
 ---
