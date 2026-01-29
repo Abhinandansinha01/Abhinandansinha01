@@ -46,19 +46,19 @@ I'm a passionate engineer focused on cloud architecture, automation, and buildin
 
 ### 🚀 Projects
 
-#### **Infrastructure Cost Optimization** | *Python, AWS Lambda, Terraform*
+#### **[Infrastructure Cost Optimization](https://github.com/Abhinandansinha01/Infrastructure-Cost-Optimization)** | *Python, AWS Lambda, Terraform*
 
 - Architected an event-driven "Budget Police" system using **AWS EventBridge** and **Lambda** to detect and terminate idle resources.
 - Reduced monthly cloud infrastructure costs by **20%** by enforcing auto-shutdown policies for non-production EC2 instances.
 - Implemented **Terraform** modules to provision the entire monitoring stack, ensuring 100% Infrastructure as Code (IaC) compliance.
 
-#### **Blue-Green Deployment Pipeline** | *AWS ECS, Docker, CodeDeploy*
+#### **[Blue-Green Deployment Pipeline](https://github.com/Abhinandansinha01/Blue-Green-Deployment-Pipeline)** | *AWS ECS, Docker, CodeDeploy*
 
 - Orchestrated a Zero-Downtime deployment pipeline for containerized applications using **AWS ECS Fargate** and **CodePipeline**.
 - Configured **CodeDeploy** traffic shifting strategies to route 10% of traffic to new revisions, enabling safe canary releases.
 - Achieved **99.9% uptime** availability during deployments with automated CloudWatch alarm rollbacks.
 
-#### **Automated Resume Parser** | *React.js, AWS Textract, NLP*
+#### **[Automated Resume Parser](https://github.com/Abhinandansinha01/Automated-Resume-Parser)** | *React.js, AWS Textract, NLP*
 
 - Engineered a recruitment tool leveraging **AWS Textract** to perform OCR extraction on unstructured PDF resumes.
 - Built a ranking algorithm in **Python** to compute candidate "Fit Scores," reducing manual screening time by **70%**.
